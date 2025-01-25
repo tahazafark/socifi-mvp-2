@@ -1,5 +1,5 @@
 # Crypto Oasis Socifi MVP-v1
-# A Web3, social gaming platform with integrated cryptocurrency features and real-time multiplayer. 
+## A Web3, social gaming platform with integrated cryptocurrency features and real-time multiplayer. 
 ### Install server dependencies
 
 ```bash
